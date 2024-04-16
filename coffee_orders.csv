@@ -1,0 +1,13 @@
+,transaction_id,transaction_date,customer_name,transaction_amount,menu,customer_rating
+0,1,2023-11-01,Alice Smith,3.5,espresso,5
+1,2,2023-11-01,John Doe,3.5,espresso,4
+2,3,2023-11-01,Emily Johnson,4.25,macchiato,4
+3,6,2023-11-02,David Davis,4.75,cappuccino,5
+4,7,2023-11-03,Olivia Smith,4.75,cappuccino,4
+5,8,2023-11-03,James Johnson,4.75,cappuccino,4
+6,11,2023-11-05,Ava Martin,4.75,cappuccino,5
+7,12,2023-11-06,Liam Wilson,3.5,espresso,4
+8,13,2023-11-06,Charlotte White,4.25,macchiato,4
+9,16,2023-11-08,Ethan Thomas,4.75,cappuccino,5
+10,17,2023-11-08,Isabella Allen,3.5,espresso,4
+11,18,2023-11-09,Noah Harris,4.25,macchiato,4
